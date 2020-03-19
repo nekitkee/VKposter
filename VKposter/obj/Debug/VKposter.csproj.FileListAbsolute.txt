@@ -1,0 +1,13 @@
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\VKposter.exe.config
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\VKposter.exe
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\VKposter.pdb
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\MetroFramework.dll
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\Newtonsoft.Json.dll
+D:\WORKSPACE\VKposter\VKposter\bin\Debug\Newtonsoft.Json.xml
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.Form1.resources
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.Properties.Resources.resources
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.csproj.GenerateResource.Cache
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.exe
+D:\WORKSPACE\VKposter\VKposter\obj\Debug\VKposter.pdb
